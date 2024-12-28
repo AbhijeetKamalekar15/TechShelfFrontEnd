@@ -35,7 +35,7 @@ function Banner() {
                 <div className="w-full order-2 md:order-1 md: w-1/2 mt-12 md:mt-24">
                     <div className="space-y-12">
                         <h1 className="text-4xl font-bold">Hello, welcome here to learn something <span className="text-pink-500">new everyday!!!</span></h1>
-                        <p className="text-xl font-semibold">
+                        <p className="text-justify text-xl font-semibold">
                             Dive into a world of knowledge with our curated collection of top-notch tech books. From programming and algorithms to AI and cybersecurity, we’ve got everything you need to fuel your passion for technology. Explore, learn, and grow—one page at a time. Let's build your tech library today!
                         </p>
 
