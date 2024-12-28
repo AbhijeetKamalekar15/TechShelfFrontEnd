@@ -8,7 +8,7 @@ import { useState, useEffect } from 'react';
 
 function FreeBook() {
     const [book, setBook] = useState([]);
-    const [sliderKey, setSliderKey] = useState(0); // Key to force re-render
+    const [sliderKey, setSliderKey] = useState(1); // Key to force re-render
 
     useEffect(() => {
         const getBook = async () => {
