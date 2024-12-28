@@ -75,7 +75,7 @@ function FreeBook() {
             <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
                 <div>
                     <h1 className="font-semibold text-xl pb-0">The Wisdom Corner</h1>
-                    <p className="mb-4 mt-2">
+                    <p className="text-justify mb-4 mt-2">
                         While our primary focus is on tech-related books, we also offer a handpicked
                         collection of must-read books for students. From personal development and
                         productivity to leadership and creativity, these books are designed to inspire
