@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "676d1ce129da54cf8e5763cc"
+  },
+  "id": 7,
+  "name": "Beginning C++ Programming",
+  "title": "Start C++ with Richard Grimes",
+  "price": 3160,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/1XeAvvD1QOXG316V7MT9amWV_YPljnONJ/view?usp=sharing",
+  "image": "https://rukminim2.flixcart.com/image/850/1000/jovshow0/book/9/4/3/beginning-c-programming-original-imafb95gdpgrdgn7.jpeg?q=90&crop=false"
+},
+{
+  "_id": {
+    "$oid": "676d1ce129da54cf8e5763cd"
+  },
+  "id": 8,
+  "name": "Head First Java",
+  "title": "A beginner-friendly book that teaches Java with engaging, interactive lessons and real-world examples.",
+  "price": 1852,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/14ubWzXqs4RvxWX5F1mN2e5Bw9Kf9OLQ_/view?usp=sharing",
+  "image": "https://i.ebayimg.com/images/g/sBUAAOSwuMZk159R/s-l400.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d1ce129da54cf8e5763ce"
+  },
+  "id": 9,
+  "name": "A smarter way to learn JAVASCRIPT",
+  "title": "Start your javascript journey with Mark Myers",
+  "price": 451,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/1Sd8i3rgUTjCwRM9HdnbCc_b23lj9SaMv/view?usp=sharing",
+  "image": "https://realtoughcandy.com/wp-content/uploads/2020/05/DSCN7052-1-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d1ce129da54cf8e5763cf"
+  },
+  "id": 10,
+  "name": "Data Structures and Algorithms Made Easy",
+  "title": "Dive Into DSA and Swim like Pro",
+  "price": 1000,
+  "category": "SoldOut",
+  "path": "https://drive.google.com/file/d/1ZxmOAD2IfSOZgPXRQgWmKKrElWYND18N/view?usp=sharing",
+  "image": "https://rukminim2.flixcart.com/image/850/1000/kmjhw280/book/p/a/h/data-structures-and-algorithms-made-easy-original-imagff8fjxyhntyy.jpeg?q=20&crop=false"
+},
+{
+  "_id": {
+    "$oid": "676d1ce129da54cf8e5763d0"
+  },
+  "id": 11,
+  "name": "Operating System",
+  "title": "Operating System Concepts by Abraham Silberschatz and Peter B. Galvin is a comprehensive textbook on operating systems. ",
+  "price": 829,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/1H5KFNMiBoqzAIAycqyliVuxBBO3MYZe7/view?usp=drive_link",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGmeZ7DiLiksgyLAffFVprkyfagA578cmnQ&s"
+},
+{
+  "_id": {
+    "$oid": "676d1ce129da54cf8e5763d1"
+  },
+  "id": 12,
+  "name": "Computer Networks",
+  "title": "Data Communications and Networking by Behrouz A. Forouzan is a comprehensive textbook that covers fundamental and advanced concepts in data communication, networking protocols, and modern network technologies.",
+  "price": 950,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/1zGr0I_d88SFsjpz1qWsrsgfbKMu_BhBm/view?usp=drive_link",
+  "image": "https://m.media-amazon.com/images/I/9100xK2c1eL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d21f829da54cf8e5763d2"
+  },
+  "id": 13,
+  "name": "Database Systems",
+  "title": "A comprehensive textbook that covers the fundamentals of database systems, including data models, query processing, and transaction management.",
+  "price": 1026,
+  "category": "SoldOut",
+  "path": "https://drive.google.com/file/d/1HjNPM4EDpoHTXe77ErqOXnRG7lMEQdhU/view?usp=drive_link",
+  "image": "https://a2zbookhub.in/wp-content/uploads/2024/06/Database-System-Concepts-7e-By-Silberschatz-and-Korth.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d21f829da54cf8e5763d3"
+  },
+  "id": 14,
+  "name": "Algorithms",
+  "title": "Algorithms Thomas H. Cormen",
+  "price": 1349,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/1PO7UkyBdZ_MdCJkZg2qSeAc76fjfPh-g/view?usp=sharing",
+  "image": "https://i.ebayimg.com/images/g/mswAAOSwJx9mq4UE/s-l1200.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d21f829da54cf8e5763d4"
+  },
+  "id": 15,
+  "name": "Cloud Computing",
+  "title": "Algorithms Thomas H. Cormen",
+  "price": 745,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/1h9WREJetIFzr8x-KQ_YRBrOHwSbEJfgH/view?usp=sharing",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEYrAYYHkES-JdFUuU60vfA8pr5-o0_6pzg&s"
+},
+{
+  "_id": {
+    "$oid": "676d21f829da54cf8e5763d5"
+  },
+  "id": 16,
+  "name": "InStock",
+  "title": "This volume provides a clear understanding of the concepts behind cyber-prevalent threats, tactics, and procedures",
+  "price": 1750,
+  "category": "InStock",
+  "path": "https://drive.google.com/file/d/1oYfANLvIyc9mRY-K_QL7gpEd0v26-Sym/view?usp=sharing",
+  "image": "https://outdocart.s3.amazonaws.com/uploads/the-book-syndicate-bits-bookstore/productImages/full/12491702561544-img635cdd8f74a26.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d25bf29da54cf8e5763d6"
+  },
+  "id": 1,
+  "name": "Atomic Habits",
+  "title": "Atomic Habits by James Clear offers practical strategies to build good habits, break bad ones, and achieve lasting personal growth through small, consistent changes.",
+  "price": "460",
+  "category": "Free",
+  "path": "https://drive.google.com/file/d/1am4mwumSxjE1JdM0Idw9coriXEnlKUm-/view?usp=drive_link",
+  "image": "https://media.licdn.com/dms/image/D4D12AQHZJRikGoFIKw/article-cover_image-shrink_720_1280/0/1696425885734?e=2147483647&v=beta&t=GpXawCAMJqzTZw1qYtR5FJNCAITvrAxqFTSrW9q7jdw"
+},
+{
+  "_id": {
+    "$oid": "676d25bf29da54cf8e5763d7"
+  },
+  "id": 2,
+  "name": "Rich Dad Poor Dad",
+  "title": "Rich Dad Poor Dad by Robert Kiyosaki explores financial literacy and wealth-building through lessons learned from two contrasting father figures.",
+  "price": 192,
+  "category": "Free",
+  "path": "https://drive.google.com/file/d/1am4mwumSxjE1JdM0Idw9coriXEnlKUm-/view?usp=drive_link",
+  "image": "https://www.theindianbookstore.in/cdn/shop/products/rich_dad_poor_dad_by_robert_t__1607410877_44fb96ac-768x1024.jpg?v=1659004008&width=1445"
+},
+{
+  "_id": {
+    "$oid": "676d25bf29da54cf8e5763d8"
+  },
+  "id": 3,
+  "name": "Think Straight",
+  "title": "Think Straight by Darius Foroux is a concise guide to mastering mental clarity, eliminating distractions, and thinking with purpose for a more productive life.",
+  "price": 181,
+  "category": "Free",
+  "path": "https://drive.google.com/file/d/1JeocwkX83MrDxdjz2UWBzwdL7r0DC_DR/view?usp=drive_link",
+  "image": "https://images.meesho.com/images/products/454723601/yxufz_512.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d25bf29da54cf8e5763d9"
+  },
+  "id": 4,
+  "name": "Do It Today",
+  "title": "Do It Today by Darius Foroux is a motivational guide to overcoming procrastination, boosting productivity, and achieving your goals with actionable strategies.",
+  "price": 345,
+  "category": "Free",
+  "path": "https://drive.google.com/file/d/1NGuKX8-iYl_laSTdTvuQoYx86CelO5c8/view?usp=drive_link",
+  "image": "https://m.media-amazon.com/images/I/51TEpXDlfOL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "676d25bf29da54cf8e5763da"
+  },
+  "id": 5,
+  "name": "The Psychology of Money",
+  "title": "The Psychology of Money by Morgan Housel explores how behavior and mindset shape financial success more than knowledge or skill.",
+  "price": 313,
+  "category": "Free",
+  "path": "https://drive.google.com/file/d/1BuDhQ0SS0vy7BnCnYagOGgFM7nKd6Tgp/view?usp=sharing",
+  "image": "https://files.selar.co/product-images/2023/products/cadiplan/the-psychology-of-money-t-selar.co-6548e08b6a680.JPG"
+},
+{
+  "_id": {
+    "$oid": "676d25bf29da54cf8e5763db"
+  },
+  "id": 6,
+  "name": "The Simple Path to Wealth",
+  "title": "The Simple Path to Wealth by JL Collins offers straightforward advice on achieving financial independence through smart investing and frugal living.",
+  "price": 225,
+  "category": "Free",
+  "path": "https://drive.google.com/file/d/1iBB7Y7rIKjdUYiuP91DjPLgKu6O-hxqh/view?usp=sharing",
+  "image": "https://m.media-amazon.com/images/I/519tRy92OOL._AC_UF1000,1000_QL80_.jpg"
+}]

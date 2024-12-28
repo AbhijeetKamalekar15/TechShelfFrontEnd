@@ -1,0 +1,94 @@
+[
+    
+    {
+        "id":7,
+        "name" : "Competitive Programming",
+        "title" : "Steven Halim and Felix Halim",
+        "price" : 0,
+        "category" : "Instock",
+        "path" : "https://drive.google.com/file/d/1_a9jHKRg459PqoPVTbDubMiUasnX0-nu/view?usp=sharing",
+        "image" : "https://m.media-amazon.com/images/I/41s5q-fELIL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":8,
+        "name" : "Getting Started with SQL",
+        "title" : "A hands-on approach for beginners - Thomas Nield",
+        "price" : 0,
+        "category" : "Instock",
+        "path" : "https://drive.google.com/file/d/1CwlXcRoToQ7pElEBYP5EST4W9sg_T90S/view?usp=sharing",
+        "image" : "https://m.media-amazon.com/images/I/91zDPwfgACL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":6,
+        "name" : "Quantitative Aptitude",
+        "title" : "Dr. R. S. Aggarwal",
+        "price" : 0,
+        "category" : "Free",
+        "path" : "https://drive.google.com/file/d/1r7InvT3bUP3w6lys03acuH1h4vVUBhLg/view?usp=sharing",
+        "image" : "https://m.media-amazon.com/images/I/71hFMH9hZLL.jpg"
+    },
+    {
+        "id":6,
+        "name" : "Reasoning",
+        "title" : "Dr. R. S. Aggarwal",
+        "price" : 0,
+        "category" : "Free",
+        "path" : "https://drive.google.com/file/d/1iBB7Y7rIKjdUYiuP91DjPLgKu6O-hxqh/view?usp=sharing",
+        "image" : "https://www.shopmarg.com/assets/uploads/products/A_Modern_Approach_To_Verbal_and_Non-verbal_Reasoning_by_Dr_R_S__Aggarwal_3469.jpg"
+    },
+    {
+        "id":1,
+        "name" : "Atomic Habits",
+        "title" : "Atomic Habits by James Clear offers practical strategies to build good habits, break bad ones, and achieve lasting personal growth through small, consistent changes.",
+        "price" : "",
+        "category" : "Free",
+        "path" : "https://drive.google.com/file/d/1am4mwumSxjE1JdM0Idw9coriXEnlKUm-/view?usp=drive_link",
+        "image" : "https://media.licdn.com/dms/image/D4D12AQHZJRikGoFIKw/article-cover_image-shrink_720_1280/0/1696425885734?e=2147483647&v=beta&t=GpXawCAMJqzTZw1qYtR5FJNCAITvrAxqFTSrW9q7jdw"
+    },
+    {
+        "id":2,
+        "name" : "Rich Dad Poor Dad",
+        "title" : "Rich Dad Poor Dad by Robert Kiyosaki explores financial literacy and wealth-building through lessons learned from two contrasting father figures.",
+        "price" : 0,
+        "category" : "Paid",
+        "path" : "https://drive.google.com/file/d/1am4mwumSxjE1JdM0Idw9coriXEnlKUm-/view?usp=drive_link",
+        "image" : "https://www.theindianbookstore.in/cdn/shop/products/rich_dad_poor_dad_by_robert_t__1607410877_44fb96ac-768x1024.jpg?v=1659004008&width=1445"
+    },
+    {
+        "id":3,
+        "name" : "Think Straight",
+        "title" : "Think Straight by Darius Foroux is a concise guide to mastering mental clarity, eliminating distractions, and thinking with purpose for a more productive life.",
+        "price" : 0,
+        "category" : "Paid",
+        "path" : "https://drive.google.com/file/d/1JeocwkX83MrDxdjz2UWBzwdL7r0DC_DR/view?usp=drive_link",
+        "image" : "https://images.meesho.com/images/products/454723601/yxufz_512.jpg"
+    },
+    {
+        "id":4,
+        "name" : "Do It Today",
+        "title" : "Do It Today by Darius Foroux is a motivational guide to overcoming procrastination, boosting productivity, and achieving your goals with actionable strategies.",
+        "price" : 0,
+        "category" : "Paid",
+        "path" : "https://drive.google.com/file/d/1NGuKX8-iYl_laSTdTvuQoYx86CelO5c8/view?usp=drive_link",
+        "image" : "https://m.media-amazon.com/images/I/51TEpXDlfOL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":5,
+        "name" : "The Psychology of Money",
+        "title" : "The Psychology of Money by Morgan Housel explores how behavior and mindset shape financial success more than knowledge or skill.",
+        "price" : 0,
+        "category" : "Paid",
+        "path" : "https://drive.google.com/file/d/1BuDhQ0SS0vy7BnCnYagOGgFM7nKd6Tgp/view?usp=sharing",
+        "image" : "https://files.selar.co/product-images/2023/products/cadiplan/the-psychology-of-money-t-selar.co-6548e08b6a680.JPG"
+    },
+    {
+        "id":6,
+        "name" : "The Simple Path to Wealth",
+        "title" : "The Simple Path to Wealth by JL Collins offers straightforward advice on achieving financial independence through smart investing and frugal living.",
+        "price" : 0,
+        "category" : "Free",
+        "path" : "https://drive.google.com/file/d/1iBB7Y7rIKjdUYiuP91DjPLgKu6O-hxqh/view?usp=sharing",
+        "image" : "https://m.media-amazon.com/images/I/519tRy92OOL._AC_UF1000,1000_QL80_.jpg"
+    }
+
+]
